@@ -1,3 +1,3 @@
 # Flowers
 
-![Screenshot](https://github.com/TAPAKAHOKOT/Flowers/tree/master/OP%20animation/video.gif)
+![Screenshot](https://github.com/TAPAKAHOKOT/Flowers/blob/master/OP%20animation/video.gif)
