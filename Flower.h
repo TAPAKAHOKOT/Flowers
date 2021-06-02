@@ -111,15 +111,15 @@ ref class Flower{
 			
 			if (!dead)
 				if (gr)
-					return "C:/users/Igrok/Desktop/OP animation/leaf/leafs320/leaf" + (timeCounter++).ToString() + ".png";
+					return "D:/Projects/Flowers/OP animation/leaf/leafs320/leaf" + (timeCounter++).ToString() + ".png";
 				else
-					return "C:/users/Igrok/Desktop/OP animation/leaf/leafs320/leaf" + (timeCounter).ToString() + ".png";
+					return "D:/Projects/Flowers/OP animation/leaf/leafs320/leaf" + (timeCounter).ToString() + ".png";
 			else
 				return "";
 		}
 
 		virtual System::String^ getCurFlower() {
-			return "C:/users/Igrok/Desktop/OP animation/leaf/leafs320/leaf" + (timeCounter).ToString() + ".png";
+			return "D:/Projects/Flowers/OP animation/leaf/leafs320/leaf" + (timeCounter).ToString() + ".png";
 		}
 
 		void draw(Graphics^ g) {

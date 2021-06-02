@@ -53,15 +53,15 @@ ref class FlowerFruit : public Flower{
 				timeCounter = 0;
 
 			if (gr)
-				return "C:/users/Igrok/Desktop/OP animation/leaf/leafsFruit320/leafFruits" + (timeCounter++).ToString() + ".png";
+				return "D:/Projects/Flowers/OP animation/leaf/leafsFruit320/leafFruits" + (timeCounter++).ToString() + ".png";
 			else
-				return "C:/users/Igrok/Desktop/OP animation/leaf/leafsFruit320/leafFruits" + (timeCounter).ToString() + ".png";
+				return "D:/Projects/Flowers/OP animation/leaf/leafsFruit320/leafFruits" + (timeCounter).ToString() + ".png";
 		}
 
 		virtual System::String^ getCurFlower() override {
 			if (timeCounter > 32)
 				timeCounter = 33;
-			return "C:/users/Igrok/Desktop/OP animation/leaf/leafsFruit320/leafFruits" + (timeCounter).ToString() + ".png";
+			return "D:/Projects/Flowers/OP animation/leaf/leafsFruit320/leafFruits" + (timeCounter).ToString() + ".png";
 		}
 };
 

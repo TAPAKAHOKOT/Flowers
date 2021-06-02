@@ -41,7 +41,7 @@ ref class Sun{
 	}
 
 	void draw(Graphics^ g) {
-		auto img = gcnew Bitmap("C:/Users/Igrok/Desktop/OP animation/sun.png");
+		auto img = gcnew Bitmap("D:/Projects/Flowers/OP animation/sun.png");
 		g->DrawImage(img, x, y, img->Width, img->Height);
 	}
 };

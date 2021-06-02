@@ -33,7 +33,7 @@ ref class Cloud {
 		}
 
 		void draw(Graphics^ g) {
-			auto img = gcnew Bitmap("C:/Users/Igrok/Desktop/OP animation/Clouds/cloud" + cloudId.ToString() + ".png");
+			auto img = gcnew Bitmap("D:/Projects/Flowers/OP animation/Clouds/cloud" + cloudId.ToString() + ".png");
 			g->DrawImage(img, x, y, img->Width, img->Height);
 		}
 };

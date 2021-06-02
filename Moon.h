@@ -37,7 +37,7 @@ public:
 	}
 
 	void draw(Graphics^ g) {
-		auto img = gcnew Bitmap("C:/Users/Igrok/Desktop/OP animation/moon.png");
+		auto img = gcnew Bitmap("D:/Projects/Flowers/OP animation/moon.png");
 		g->DrawImage(img, x, y, img->Width, img->Height);
 
 		Brush^ b = gcnew SolidBrush(Color::FromArgb(200, Color::GhostWhite));
