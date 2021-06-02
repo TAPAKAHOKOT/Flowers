@@ -1,0 +1,25 @@
+﻿  CppCLR_WinformsProjekt.cpp
+D:\Projects\Flowers\Form1.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Projects\Flowers\Form1.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Projects\Flowers\Earth.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Projects\Flowers\Grass.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Projects\Flowers\Form1.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Projects\Flowers\Sky.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Projects\Flowers\Sky.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Projects\Flowers\Cloud.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Projects\Flowers\Form1.h(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Projects\Flowers\Form1.h(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Projects\Flowers\Form1.h(7,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Projects\Flowers\Rain.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Projects\Flowers\Blob.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Projects\Flowers\Form1.h(8,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Projects\Flowers\FlowerFruit.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Projects\Flowers\FlowerFruit.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Projects\Flowers\Form1.h(9,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Projects\Flowers\Form1.h(10,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  FlowerFruit.cpp
+D:\Projects\Flowers\FlowerFruit.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Projects\Flowers\FlowerFruit.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Создание кода...
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Flowers.vcxproj -> D:\Projects\Flowers\x64\Debug\Flowers.exe

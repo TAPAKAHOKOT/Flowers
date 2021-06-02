@@ -1,0 +1,5 @@
+D:\Projects\Flowers\x64\Debug\Flowers.Form1.resources
+D:\Projects\Flowers\x64\Debug\Flowers.vcxproj.GenerateResource.cache
+D:\Projects\Flowers\x64\Debug\Flowers.exe
+D:\Projects\Flowers\x64\Debug\Flowers.pdb
+D:\Projects\Flowers\x64\Debug\Flowers.vcxprojAssemblyReference.cache
