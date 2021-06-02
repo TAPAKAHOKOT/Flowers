@@ -1,3 +1,3 @@
 # Flowers
 
-![OP animation](video.gif)
+![Screenshot](OP animation/video.gif)
